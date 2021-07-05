@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name 68000Relocator-rescue)(type Legacy)(uri ${KIPRJMOD}/68000Relocator-rescue.lib)(options "")(descr ""))
+  (lib (name "68000Relocator-rescue")(type "Legacy")(uri "${KIPRJMOD}/68000Relocator-rescue.lib")(options "")(descr ""))
+  (lib (name "Project")(type "KiCad")(uri "${KIPRJMOD}/Project.kicad_sym")(options "")(descr ""))
 )
